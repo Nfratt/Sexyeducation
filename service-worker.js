@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Sexyeducation/precache-manifest.492321ece29c69875171cd443924e174.js"
+  "/Sexyeducation/precache-manifest.307464a8042a75f8159b5cdb332f6cf7.js"
 );
 
 self.addEventListener('message', (event) => {
