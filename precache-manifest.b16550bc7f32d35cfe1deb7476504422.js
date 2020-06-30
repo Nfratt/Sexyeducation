@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12835cd1c96bb5665390975b76944c28",
+    "revision": "022babd53e97f27d30a3f51901f065ed",
     "url": "/Sexyeducation/index.html"
   },
   {
-    "revision": "14cba904b2b7bafc4d1f",
-    "url": "/Sexyeducation/static/css/main.740c2008.chunk.css"
+    "revision": "820d170a286bafb59bee",
+    "url": "/Sexyeducation/static/css/main.daa7f777.chunk.css"
   },
   {
-    "revision": "10f19a9e128df433c429",
-    "url": "/Sexyeducation/static/js/2.f27a69d3.chunk.js"
+    "revision": "275c558127791cf51106",
+    "url": "/Sexyeducation/static/js/2.0ec550e4.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Sexyeducation/static/js/2.f27a69d3.chunk.js.LICENSE.txt"
+    "url": "/Sexyeducation/static/js/2.0ec550e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "14cba904b2b7bafc4d1f",
-    "url": "/Sexyeducation/static/js/main.9dac387e.chunk.js"
+    "revision": "820d170a286bafb59bee",
+    "url": "/Sexyeducation/static/js/main.063a4b2d.chunk.js"
   },
   {
     "revision": "fef345826601a1f68338",
