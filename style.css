@@ -1,24 +1,25 @@
 body{
 	background-color: #35BBCA;
 	color:black;
-	font-size: larger
+	font-size: larger;
 
+	font-family: 'Montserrat', sans-serif;
 	;
 }
-
 	.logo{
-		margin-left: 23%;
+		margin-left: 26%;
 		clear: both;
+
 
 	}
 	ul {
 		clear: left;
 		list-style-type: none;
-		margin: 0;
-		padding: 0;
 		overflow: hidden;
 		margin-right: 3%;
 		font-size: calc(10px + 2vmin);
+		font-family: 'Candal', sans-serif;
+
 	  }
 	li{
 		float: right;
@@ -34,6 +35,7 @@ body{
 	  li a :hover {
 		color: #3B6064 ;
 	}
+
 #mc_embed_signup{
 	display: flex;
 	justify-content: center;
@@ -50,6 +52,46 @@ body{
 #mc_embed_signup .mc-field-group {
 	padding-bottom: 1% !important;
 }
+.SectionContainer{
+	margin: 5%;
+	margin-bottom: 1%;
+	color: white;
+	font-size: x-large;
+}
+.header-1{
+	text-align: center;
+
+}
+span{
+	padding-top: 2%;
+}
+
+.container{
+	display: flex;
+}
+
+h1{color: white;}
+.block{
+	height: 100px;
+	width: 100%;
+	background: #E0BE36;
+	margin-bottom: 2%;
+}
+.Bio{
+	width: 500px;
+	background: #3B6064;
+	margin-left: 2%;
+	padding:10px;
+	color: white
+}
+.bio-img{
+	width:500px;
+	height:500px;
+}
+.content{
+	width: 500px;
+
+}
 footer {
     padding: 30px 0;
     clear: both;
@@ -59,8 +101,11 @@ footer {
     background: #3B6064;
     border-top: 8px solid #E0BE36;
     height: 50px;
-    width: 100%;
+	width: 100%;
+	margin-top:19%;
   }
+
+
 
   .SocialIcons{
 	 font-size: xx-large;
@@ -95,11 +140,13 @@ footer {
 		margin-left: 27%;
 		font-size: medium;
 	}
+	
 
   @media screen and (max-width: 992px) {
 	  .graphic{
 		  width: 75%;
 	  }
+
   };
 
 
